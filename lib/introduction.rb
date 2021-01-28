@@ -1,4 +1,6 @@
-Def introduction 
+Def introduction (name)
+puts 
+ 
 
 
 
